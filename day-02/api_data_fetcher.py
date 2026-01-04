@@ -1,5 +1,5 @@
-import requests
-import json
+import requests 
+import json 
 
 def fetch_api_data():
     api_url = "https://jsonplaceholder.typicode.com/users"
