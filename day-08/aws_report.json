@@ -1,0 +1,33 @@
+{
+    "EC2Instances": [
+        {
+            "InstanceId": "i-0bf139f2aedfd7166",
+            "State": "terminated"
+        },
+        {
+            "InstanceId": "i-0eeb62fb2bb9b6bb9",
+            "State": "terminated"
+        },
+        {
+            "InstanceId": "i-045e52eb8958a2e57",
+            "State": "terminated"
+        },
+        {
+            "InstanceId": "i-06927d407c19de01f",
+            "State": "running"
+        },
+        {
+            "InstanceId": "i-0f8d5e581efa437f3",
+            "State": "running"
+        },
+        {
+            "InstanceId": "i-0d721a5c92b12fa24",
+            "State": "running"
+        }
+    ],
+    "S3Buckets": [
+        "python-for-devops-day-04",
+        "s3-utilities-bucket",
+        "s3-utilities-bucket-02"
+    ]
+}
